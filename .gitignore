@@ -1,0 +1,13 @@
+data/
+*.pkl
+*.onnx
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+__pycache__/
+*.pyc
+.venv/
+.env
